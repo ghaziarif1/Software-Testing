@@ -1,0 +1,4 @@
+com\example\bookmanagement\BookController.class
+com\example\bookmanagement\Book.class
+com\example\bookmanagement\BookRepository.class
+com\example\bookmanagement\BookManagementApplication.class
